@@ -1,0 +1,23 @@
+{
+  "name": "101399925_COMP3123-exec04",
+  "version": "1.0.0",
+  "description": "Lab Exercise 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "expressjs",
+    "http",
+    "node",
+    "API",
+    "HTML"
+  ],
+  "author": "Anna Shibanova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^3.1.7"
+  }
+}
